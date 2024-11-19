@@ -24,13 +24,11 @@ Welcome to Tribe! We are a passionate team of software developers focused on cre
    - **Description:** A lightweight React Native app built with Expo, designed to test and verify Flash Call authentication services.
    - **Language:** TypeScript
    - **Status:** Public
-   - **Last Updated:** Yesterday
 
 #### 4. **[scraper-server](https://github.com/your-repo/scraper-server)**
    - **Description:** A scraper server for data collection.
    - **Language:** Python
    - **Status:** Public
-   - **Last Updated:** April 28
 
 ## About Us
 At Tribe, we believe in collaboration and innovation. Each project is an opportunity for learning and growth, and we strive to create effective and efficient solutions to real-world challenges.
