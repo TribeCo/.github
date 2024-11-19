@@ -6,26 +6,26 @@ Welcome to Tribe! We are a passionate team of software developers focused on cre
 
 ### Frontend and Backend Projects
 
-#### 1. **[Hotel Project](https://github.com/your-repo/Hotel-FrontEnd)**
-   - **Frontend:** Built with React and MUI
-   - **Backend:** Developed using Django REST Framework (DRF)
+#### 1. Hotel Project
+   - **[Frontend](https://github.com/tribeCo/Hotel-FrontEnd):** Built with React and MUI
+   - **[Backend](https://github.com/tribeCo/Hotel-Backend):** Developed using Django REST Framework (DRF)
    - **Description:** A comprehensive hotel management application.
    - **Status:** Public
 
-#### 2. **[Gizmo Project](https://github.com/your-repo/gizmo-frontend)**
-   - **Frontend:** Built with Next.js
-   - **Backend:** Developed using Django
+#### 2. Gizmo Project
+   - **[Frontend](https://github.com/tribeCo/gizmo-frontend):** Built with Next.js
+   - **[Backend](https://github.com/tribeCo/gizmo-backend):** Developed using Django
    - **Description:** An online store platform for Gizmo.
    - **Status:** Public
 
 ### Individual Projects
 
-#### 3. **[EchoVerify](https://github.com/your-repo/EchoVerify)**
+#### 3. **[EchoVerify](https://github.com/tribeCo/EchoVerify)**
    - **Description:** A lightweight React Native app built with Expo, designed to test and verify Flash Call authentication services.
    - **Language:** TypeScript
    - **Status:** Public
 
-#### 4. **[scraper-server](https://github.com/your-repo/scraper-server)**
+#### 4. **[scraper-server](https://github.com/tribeCo/scraper-server)**
    - **Description:** A scraper server for data collection.
    - **Language:** Python
    - **Status:** Public
